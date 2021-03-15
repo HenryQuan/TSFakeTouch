@@ -1,0 +1,9 @@
+Package: org.github.henryquan.faketouch
+Name: faketouch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Simulate touches
+Maintainer: Yiheng Quan
+Author: Yiheng Quan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
