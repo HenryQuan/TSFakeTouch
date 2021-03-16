@@ -1,4 +1,4 @@
-export THEOS_VENDOR_LIBRARY_PATH = ./
+export THEOS_DEVICE_IP = 192.168.1.34
 
 TARGET := iphone:clang:latest:7.0
 INSTALL_TARGET_PROCESSES = SpringBoard
